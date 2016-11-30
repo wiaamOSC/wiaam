@@ -1,1 +1,1 @@
-print "Hello World"
+sum= 0print "Hello World"sum = 10 + 5print " The sum is " + str(sum)
